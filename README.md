@@ -5,7 +5,7 @@
 ### Now
 
 - Running the Durham Entrepreneur Society, including its AI event series.
-- Building tooling around Claude Code, aimed mostly at people who don't write code for a living.
+- Building tooling around AI.
 
 ### Shipped
 
