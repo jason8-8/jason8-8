@@ -23,4 +23,4 @@
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/jasoncty/) · [Email](jasoncty8@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jasoncty/) · [jasoncty8@gmail.com](mailto:jasoncty8@gmail.com) · United Kingdom & Hong Kong
