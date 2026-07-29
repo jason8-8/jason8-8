@@ -4,8 +4,8 @@
 
 ### Now
 
-- Running the Durham Entrepreneur Society, including its AI event series.
-- Building tooling around AI.
+- Running the Durham Entrepreneur Society.
+- Building around AI.
 
 ### Shipped
 
