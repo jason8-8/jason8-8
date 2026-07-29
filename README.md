@@ -21,6 +21,6 @@
 - Heavy user of AI coding tools, and deliberate about it. Most of my public work is about making them explain themselves.
 - I write things down. Everything above ships with documentation someone else could actually follow.
 
-### Elsewhere
+### Contact
 
-[LinkedIn](https://www.linkedin.com/in/jasoncty/) · United Kingdom & Hong Kong
+[LinkedIn](https://www.linkedin.com/in/jasoncty/) · [Email](jasoncty8@gmail.com)
